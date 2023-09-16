@@ -1,0 +1,3 @@
+# kektarifi
+
+İlk projem 
